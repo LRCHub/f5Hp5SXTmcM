@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "みらいいろ",
+  "base_artist": "Plastic Tree",
+  "createdAt": "2026-03-25T13:13:15.305954Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "みらいいろ",
+      "artist": "Plastic Tree",
+      "has_synced": true,
+      "path": "select/01_みらいいろ_Plastic_Tree.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "みらいいろ - Mirai Iro",
+      "artist": "Plastic Tree",
+      "has_synced": false,
+      "path": "select/02_みらいいろ_-_Mirai_Iro_Plastic_Tree.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "みらいいろ (アンモナイト版)",
+      "artist": "Plastic Tree",
+      "has_synced": true,
+      "path": "select/03_みらいいろ_(アンモナイト版)_Plastic_Tree.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "みらいいろ",
+      "artist": "Plastic Tree",
+      "has_synced": false,
+      "path": "select/pl_01_みらいいろ_Plastic_Tree.txt"
+    }
+  ]
+}
